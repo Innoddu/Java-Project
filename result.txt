@@ -1,0 +1,18 @@
+I say Hi
+3 words
+a-1
+h-1
+i-2
+s-1
+y-1
+asd
+1 words
+a-1
+d-1
+s-1
+asd,,fd,.ds
+3 words
+a-1
+d-3
+f-1
+s-2
