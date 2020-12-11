@@ -1,3 +1,12 @@
+  
+/*
+ * 
+ * CS55 #1812 Inho Choi 
+ * Inheritence Program Project
+ * 3 Dec 2020
+ * 
+ * 
+ */
 import java.util.Arrays;
 
 public class TestProject {
