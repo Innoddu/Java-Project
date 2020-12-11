@@ -1,6 +1,6 @@
 /*
  * 
- * CS55 #1812 Inho Choi 1801787
+ * CS55 #1812 Inho Choi 
  * Inheritence Program Project
  * 3 Dec 2020
  * 
