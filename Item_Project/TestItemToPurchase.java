@@ -1,6 +1,6 @@
 /*
  * 
- * CS55 #1812 Inho Choi 1801787
+ * CS55 #1812 Inho Choi 
  * ItemPurchase list output Program Project
  * 26 Nov 2020
  * 
